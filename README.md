@@ -76,9 +76,9 @@ mv config_sample.py config.py
 Edit `config.py`:
 
 ```python
-ROUTER_IP = "192.168.15.1"
-USERNAME = "admin"
-PASSWORD = "your_secure_password"
+ROUTER_IP = "YOUR_ROUTER_IP_HERE"
+USERNAME = "YOUR_SECURE_USERNAME_HERE"
+PASSWORD = "YOUR_SECURE_PASSWORD_HERE"
 ```
 
 ---
